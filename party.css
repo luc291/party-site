@@ -1,0 +1,48 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color:yellow;
+    color:red;
+}
+
+header a{
+    text-decoration:none;
+    color:royalblue;
+    border:1px solid green;
+    background-color:white; 
+}
+
+h1 {
+    color:red;
+    background-color:yellowgreen;
+    font-size:37px;
+    text-align: center;
+}
+footer{
+    background-color:yellow;
+}
+footer p{
+    background-color: violet;
+    color:red;
+    padding:5px;
+    margin:9px;
+}
+
+nav{
+    margin: 20px;
+    padding: 10px;
+    border: 3px solid lightgrey;
+}
+
+.products {
+    background-color: purple;
+    border-radius: 10px;
+    font-size: small;
+    font-family: 20px;
+}
+.poza{
+   height:375px;
+   width:600px; 
+}
